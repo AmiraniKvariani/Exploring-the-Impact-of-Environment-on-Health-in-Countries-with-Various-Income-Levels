@@ -55,4 +55,4 @@ Pull requests are welcome. For major changes, please open an issue first to disc
 
 [Amirani Kvariani] - [AMIRANIKVARIANI@GMAIL.COM](mailto:AMIRANIKVARIANI@GMAIL.COM)
 
-Project Link: [https://github.com/yourusername/projectname](https://github.com/yourusername/projectname)
+Project Link: [[https://github.com/yourusername/projectname](https://github.com/yourusername/projectname](https://github.com/AmiraniKvariani/Exploring-the-Impact-of-Environment-on-Health-in-Countries-with-Various-Income-Levels.git))
